@@ -1,0 +1,34 @@
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Kaleidescope-main (1)\Kaleidescope-main\Kaleidescope\bin\Debug\Kaleidescope.exe.config
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Kaleidescope-main (1)\Kaleidescope-main\Kaleidescope\bin\Debug\Kaleidescope.exe
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Kaleidescope-main (1)\Kaleidescope-main\Kaleidescope\bin\Debug\Kaleidescope.pdb
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Kaleidescope-main (1)\Kaleidescope-main\Kaleidescope\bin\Debug\Kaleidescope.xml
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Kaleidescope-main (1)\Kaleidescope-main\Kaleidescope\bin\Debug\WebDriver.dll
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Kaleidescope-main (1)\Kaleidescope-main\Kaleidescope\bin\Debug\WebDriver.xml
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Kaleidescope-main (1)\Kaleidescope-main\Kaleidescope\obj\Debug\Kaleidescope.vbprojAssemblyReference.cache
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Kaleidescope-main (1)\Kaleidescope-main\Kaleidescope\obj\Debug\Kaleidescope.Form1.resources
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Kaleidescope-main (1)\Kaleidescope-main\Kaleidescope\obj\Debug\Kaleidescope.frmVersion.resources
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Kaleidescope-main (1)\Kaleidescope-main\Kaleidescope\obj\Debug\Kaleidescope.Resources.resources
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Kaleidescope-main (1)\Kaleidescope-main\Kaleidescope\obj\Debug\Kaleidescope.vbproj.GenerateResource.cache
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Kaleidescope-main (1)\Kaleidescope-main\Kaleidescope\obj\Debug\Kaleidescope.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Kaleidescope-main (1)\Kaleidescope-main\Kaleidescope\obj\Debug\Kaleidescope.vbproj.CopyComplete
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Kaleidescope-main (1)\Kaleidescope-main\Kaleidescope\obj\Debug\Kaleidescope.exe
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Kaleidescope-main (1)\Kaleidescope-main\Kaleidescope\obj\Debug\Kaleidescope.xml
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Kaleidescope-main (1)\Kaleidescope-main\Kaleidescope\obj\Debug\Kaleidescope.pdb
+C:\Users\Lenovo z50\Desktop\Software and files\Expert23\Kaleidescope-main (1)\Kaleidescope-main\Kaleidescope\obj\Debug\Kaleidescope.frmLemlist.resources
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Kaleidescope-main\Kaleidescope-main\Kaleidescope\bin\Debug\Kaleidescope.exe.config
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Kaleidescope-main\Kaleidescope-main\Kaleidescope\bin\Debug\Kaleidescope.exe
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Kaleidescope-main\Kaleidescope-main\Kaleidescope\bin\Debug\Kaleidescope.pdb
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Kaleidescope-main\Kaleidescope-main\Kaleidescope\bin\Debug\Kaleidescope.xml
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Kaleidescope-main\Kaleidescope-main\Kaleidescope\bin\Debug\WebDriver.dll
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Kaleidescope-main\Kaleidescope-main\Kaleidescope\bin\Debug\WebDriver.xml
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Kaleidescope-main\Kaleidescope-main\Kaleidescope\obj\Debug\Kaleidescope.vbprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Kaleidescope-main\Kaleidescope-main\Kaleidescope\obj\Debug\Kaleidescope.Form1.resources
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Kaleidescope-main\Kaleidescope-main\Kaleidescope\obj\Debug\Kaleidescope.frmLemlist.resources
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Kaleidescope-main\Kaleidescope-main\Kaleidescope\obj\Debug\Kaleidescope.frmVersion.resources
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Kaleidescope-main\Kaleidescope-main\Kaleidescope\obj\Debug\Kaleidescope.Resources.resources
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Kaleidescope-main\Kaleidescope-main\Kaleidescope\obj\Debug\Kaleidescope.vbproj.GenerateResource.cache
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Kaleidescope-main\Kaleidescope-main\Kaleidescope\obj\Debug\Kaleidescope.vbproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Kaleidescope-main\Kaleidescope-main\Kaleidescope\obj\Debug\Kaleidescope.exe
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Kaleidescope-main\Kaleidescope-main\Kaleidescope\obj\Debug\Kaleidescope.xml
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Kaleidescope-main\Kaleidescope-main\Kaleidescope\obj\Debug\Kaleidescope.pdb
+C:\Users\TOSHIBA\Desktop\Software And Files\Expert 23\Kaleidescope-main\Kaleidescope-main\Kaleidescope\obj\Debug\Kaleidescope.frmFileSystem.resources
